@@ -1,0 +1,17 @@
+header, footer {
+    background: #ffc;
+    text-align: center;
+    padding: 20px 0;
+}
+#container {
+    display: flex;
+    height: 300px;
+}
+aside {
+    flex: 1;
+    background: #fcc;
+}
+article {
+    flex: 2;
+    background: #cff;
+}
